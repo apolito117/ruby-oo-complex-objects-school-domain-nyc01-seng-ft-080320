@@ -5,5 +5,5 @@ class School
     @name = name
     @roster = []
   end
-binding.binding.pry
+binding.pry
 end
